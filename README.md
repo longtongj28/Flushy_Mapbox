@@ -1,6 +1,3 @@
-# Flushy_Mapbox
-# Flushy Website
-
 <p align="center">
 <img src="https://github.com/le11evan/Flushy_Website/blob/master/images/Flushy-Logo-3.png" width="250" height="250" />
  </p>
