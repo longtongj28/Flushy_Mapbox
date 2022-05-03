@@ -7,7 +7,7 @@
 ## Description
 
 Feel free to use our map feature using MapBox. I provided you guys with our token, so you don't have to create an account with mapbox. 
-If you copy and paste this exact code into your projects it should clone our map feature. 
+If you copy and paste this exact code into your projects it should clone our map feature. If you have any questions, msg any of us on Discord!
 
 Link to a live demo of this mapbox feature only: https://flushymapbox.netlify.app/
 
@@ -21,7 +21,7 @@ Link to Flushy Discord: https://discord.gg/YF535Y8d
 
 There are so much features you can add with mapbox, I'll provide some resources below to help you guys out, Honestly i'm still trying to figure out some things.
 
-Here's a link with the documentation for Mapboxmore plugins/apis/etc:https://docs.mapbox.com/mapbox-gl-js/guides/
+Here's a link with the documentation for Mapboxmore plugins/apis/etc: https://docs.mapbox.com/mapbox-gl-js/guides/
 
 Here's a link to tutorials for mapbox features: https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS
 
