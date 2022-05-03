@@ -21,7 +21,7 @@ Link to Flushy Discord: https://discord.gg/YF535Y8d
 
 There are so much features you can add with mapbox, I'll provide some resources below to help you guys out, Honestly i'm still trying to figure out some things.
 
-Here's a link with the documentation for Mapboxmore plugins/apis/etc: https://docs.mapbox.com/mapbox-gl-js/guides/
+Here's a link with the documentation for Mapbox [more plugins/apis/etc]: https://docs.mapbox.com/mapbox-gl-js/guides/
 
 Here's a link to tutorials for mapbox features: https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS
 
