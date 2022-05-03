@@ -9,7 +9,9 @@
 Feel free to use our map feature using MapBox. I provided you guys with our token, so you don't have to create an account with mapbox. 
 If you copy and paste this exact code into your projects it should clone our map feature. 
 
-Link to our website: https://flushy.netlify.app/
+Link to a demo the mapbox feature only: https://flushymapbox.netlify.app/
+
+Link to our original website: https://flushy.netlify.app/
 
 ## Our Discord Server
 
