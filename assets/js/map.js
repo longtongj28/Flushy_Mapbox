@@ -62,7 +62,7 @@ function setupMap(center) {
           accessToken: mapboxgl.accessToken
     });
           
-    map.addControl(directions, 'top-left');
+    map.addControl(directions, 'top-left'); 
           
     // add markers to map ******THIS IS WORK IN PROGRESS FOR OUR OWN PROJECT [you dont need this]
 

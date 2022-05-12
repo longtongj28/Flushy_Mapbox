@@ -1,6 +1,6 @@
 #map {
-    height: 45vh;
-    width: 100w;
+    height: 100%;
+    width: 100%;
 }
 
 .marker {
@@ -32,3 +32,57 @@
 .mapboxgl-ctrl-geocoder {
     min-width: 100%;
     }
+
+.gamebox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid;
+    width: 800px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.losebtn {
+}
+
+.popupbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 500px;
+    background: white;
+    transition: opacity 0.5s;
+    border: solid;
+}
+.popupbox.closed {
+    opacity: 0;
+    z-index: -1;
+}
+
+.popupbox.opened {
+    opacity: 1;
+    z-index: 2;
+}
+.btn-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map-container {
+    transition: opacity 0.5s;
+    width: 800px;
+    height: 450px;
+}
+.map-container.closed {
+    opacity: 0;
+}
+.map-container.opened {
+    opacity: 1;
+}
